@@ -3,7 +3,7 @@ module github.com/ava-labs/subnet-evm
 go 1.19
 
 require (
-	github.com/VictoriaMetrics/fastcache v1.10.0
+	github.com/VictoriaMetrics/fastcache v1.12.1
 	github.com/ava-labs/avalanchego v1.10.0
 	github.com/cespare/cp v0.1.0
 	github.com/davecgh/go-spew v1.1.1
@@ -53,7 +53,7 @@ require (
 	github.com/btcsuite/btcd/btcec/v2 v2.3.2 // indirect
 	github.com/btcsuite/btcd/btcutil v1.1.3 // indirect
 	github.com/cenkalti/backoff/v4 v4.1.3 // indirect
-	github.com/cespare/xxhash/v2 v2.1.2 // indirect
+	github.com/cespare/xxhash/v2 v2.2.0 // indirect
 	github.com/cpuguy83/go-md2man/v2 v2.0.2 // indirect
 	github.com/decred/dcrd/dcrec/secp256k1/v4 v4.1.0 // indirect
 	github.com/deepmap/oapi-codegen v1.8.2 // indirect
